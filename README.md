@@ -1,1 +1,8 @@
-My name is Carly Truong and InvestmentBuddy was a collaborative semester-long group project that I completed with three other team members. It is an application designed to help beginner investors learn how to invest by providing guidance, tips, and interactive tools. We developed both the GUI and backend features, including functionality for adding and removing investments from a portfolio, displaying portfolio performance through graphs, and generating dashboard insights based on user input.
+InvestmentBuddy is a stocks investment application designed for beginner investors. When users create an investment portfolio, they can add or remove as many investments as desired. Portfolio performance can be visually displayed via interactive graphs, or by generating robust dashboard insights. Example use cases that InvestmentBuddy addresses are:
+
+1) If I have *x* amount of dollars, what are the best stocks to invest in?
+2) What is my current balance and performance activity?
+
+InvestmentBuddy offers users who are not familiar with investing a user-friendly UI, which includes easy navigation through guidance and helpful tips.
+
+This application was a result of a collaborative semester-long group project at CSUSM involving three other team members.
